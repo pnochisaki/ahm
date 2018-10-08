@@ -2,20 +2,20 @@
 templateKey: auto-injury-page
 title: Auto Injury
 ---
-## BIOGRAPHY
+### Massage for Motor Vehicle Accidents
 
-Christina’s earliest memory of massage was at the age of 4 years old when her mother was pregnant with Christina’s twin brothers.  Pregnancy didn’t suit her mother’s small frame very well and Christina remembers many long afternoons and evenings spent kneeled by her mothers side, rubbing baby lotion into all the tender areas of her legs and back.
+Abundant Health Massage & Bodywork now offers Motor Vehicle Accident Recovery Massage! If you or someone you know were involved in an auto accident we will gladly bill auto insurance companies for your massage therapy. This also goes for pedestrians and bikers who have been struck by an automobile.
 
+Massage is of great benefit during your road to recovery. We can help ease the physical, as well as the emotional stress related to such a traumatic event.
 
-It wasn’t until she suffered a debilitating back injury as a teenager that Christina experienced the healing benefits of massage first-hand. Opting out of an expensive surgery strongly urged by her team of neurologists, family and friends, she turned to the decidedly different, homeopathic approach to healing herself, while simultaneously establishing the roots of what is now the foundation of her career; believing in the power of healing ones own body and challenging the western mind-set that if something hurts, simply cutting it open and taking it out should not always be the first course of action.
+### We will make it easy for you – just follow these simple steps:
 
-Christina is a native Oregonian and works out of her detached home studio within the ever popular and beautiful Richmond District of SE Portland.  She thinks of her studio as an Urban Zen Retreat where she is the Zen Master. She lives with her clever bearded husband, and her two sons; a rambunctious 4 year old – clever like his daddy, and a cheerful infant who loves to shout at the furniture. Together they care for a 75-pound “lap dog,” and a spattering of chickens.
+1. Contact your primary care physician or doctor of Chiropractic.  
+2. Your physician or chiropractor will write you a prescription for massage.  
+3. Contact us to schedule your appointment. All you need to bring is your massage prescription along with the following insurance info:
 
-## Expertise
+* Insurance company name, address and phone number.  
+* Incident claim number.  
+* Adjustor’s name and phone number.
 
-Christina graduated from one of the nations most prestigious massage schools where she developed her fundamental intuition of therapeutic touch into an intricate science.  The day after passing her board exams she dove straight into work at a luxury spa in downtown Portland which was rooted in the 5,000 year old healing science of Ayurveda. It was during her time here that she learned to marry her brass-tacks approach to Deep Tissue massage with high-end spa elements such as hot stones, steamed towels, aromatherapy, and various Ayurvedic treatments, creating what has now become her famous Signature Massage.
-
-Christina upholds a very holistic approach to massage and bodywork and  is known to be very passionate about her craft and for her strong drive to help others. Her work speaks for itself as she takes the time to get to know each one of her clients individually in order to meet their needs on all levels to achieve mental clarity, emotional wellbeing and physical healing.
-
-Christina is a Wellness Ambassador, Health Advocate, and a Licensed Massage Therapist, she has attended Mt Hood Community College and East West College of the Healing Arts. Christina is nationally certified and holds an Oregon State license granted by the Oregon Board of Massage Therapy, License # 14261.
-
+We handle all the billing for you so you can concentrate on your healing. There are no out of pocket costs to you.
