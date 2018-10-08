@@ -6,7 +6,6 @@ title: About
 
 Christina’s earliest memory of massage was at the age of 4 years old when her mother was pregnant with Christina’s twin brothers.  Pregnancy didn’t suit her mother’s small frame very well and Christina remembers many long afternoons and evenings spent kneeled by her mothers side, rubbing baby lotion into all the tender areas of her legs and back.
 
-
 It wasn’t until she suffered a debilitating back injury as a teenager that Christina experienced the healing benefits of massage first-hand. Opting out of an expensive surgery strongly urged by her team of neurologists, family and friends, she turned to the decidedly different, homeopathic approach to healing herself, while simultaneously establishing the roots of what is now the foundation of her career; believing in the power of healing ones own body and challenging the western mind-set that if something hurts, simply cutting it open and taking it out should not always be the first course of action.
 
 Christina is a native Oregonian and works out of her detached home studio within the ever popular and beautiful Richmond District of SE Portland.  She thinks of her studio as an Urban Zen Retreat where she is the Zen Master. She lives with her clever bearded husband, and her two sons; a rambunctious 4 year old – clever like his daddy, and a cheerful infant who loves to shout at the furniture. Together they care for a 75-pound “lap dog,” and a spattering of chickens.
