@@ -2,20 +2,88 @@
 templateKey: services-page
 title: Services
 ---
-## BIOGRAPHY
+## THE SIGNATURE MASSAGE
 
-Christina’s earliest memory of massage was at the age of 4 years old when her mother was pregnant with Christina’s twin brothers.  Pregnancy didn’t suit her mother’s small frame very well and Christina remembers many long afternoons and evenings spent kneeled by her mothers side, rubbing baby lotion into all the tender areas of her legs and back.
+A deeply relaxing and nurturing full body massage pulling from modalities across the world such as Swedish, Deep Tissue, Trigger Point, Myofascial Release, Facilitated Stretching and Ayurveda, then blending in nourishing spa elements like Hot Stones, Steamed Towels and Aromatherapy in order to layer the senses, promote a deep sense of health and wellbeing, and to foster your inner zen. All massage include a thorough structural analysis and a customized treatment plan.
+
+60 minutes $80\
+90 minutes $100
 
 
-It wasn’t until she suffered a debilitating back injury as a teenager that Christina experienced the healing benefits of massage first-hand. Opting out of an expensive surgery strongly urged by her team of neurologists, family and friends, she turned to the decidedly different, homeopathic approach to healing herself, while simultaneously establishing the roots of what is now the foundation of her career; believing in the power of healing ones own body and challenging the western mind-set that if something hurts, simply cutting it open and taking it out should not always be the first course of action.
 
-Christina is a native Oregonian and works out of her detached home studio within the ever popular and beautiful Richmond District of SE Portland.  She thinks of her studio as an Urban Zen Retreat where she is the Zen Master. She lives with her clever bearded husband, and her two sons; a rambunctious 4 year old – clever like his daddy, and a cheerful infant who loves to shout at the furniture. Together they care for a 75-pound “lap dog,” and a spattering of chickens.
+## HAND AND STONE MASSAGE
 
-## Expertise
+A penetrating and very grounding experience using heated basalt stones and blended with Swedish massage to provide relief to sore muscles. Stones are also placed on Chakras and other key points along the body to stimulate energy, blood and lymph flow. This massage also includes Hot Stone placements, Steamed Towels, and Aromatherapy using essential oils of your choice.
 
-Christina graduated from one of the nations most prestigious massage schools where she developed her fundamental intuition of therapeutic touch into an intricate science.  The day after passing her board exams she dove straight into work at a luxury spa in downtown Portland which was rooted in the 5,000 year old healing science of Ayurveda. It was during her time here that she learned to marry her brass-tacks approach to Deep Tissue massage with high-end spa elements such as hot stones, steamed towels, aromatherapy, and various Ayurvedic treatments, creating what has now become her famous Signature Massage.
+60 minutes $90\
+90 minutes $110
 
-Christina upholds a very holistic approach to massage and bodywork and  is known to be very passionate about her craft and for her strong drive to help others. Her work speaks for itself as she takes the time to get to know each one of her clients individually in order to meet their needs on all levels to achieve mental clarity, emotional wellbeing and physical healing.
+## 
 
-Christina is a Wellness Ambassador, Health Advocate, and a Licensed Massage Therapist, she has attended Mt Hood Community College and East West College of the Healing Arts. Christina is nationally certified and holds an Oregon State license granted by the Oregon Board of Massage Therapy, License # 14261.
+## DEEP TISSUE
 
+Focusing on the deeper layers of muscle tissue and underlying structures of the body using assisted active and passive stretching, and concentrated application of pressure and strokes to localized areas in which chronic conditions apply.
+
+60 minutes $70\
+90 minutes $100
+
+
+
+## MARMA CHIKITSA: ENERGY POINT THERAPY | AYURVEDIC ACUPRESSURE
+
+Marma points serve as the bridge between the physical body and its more subtle energy pathways, called nadis. This therapy is aimed at stimulating specific organs and/or systems, while releasing blocked energy and promoting flexibility. A session of Marma Point is most effective when following your massage.
+
+Complimentary with your massage – Please let your therapist know to include this in your massage.
+
+
+
+## SHIRO ABHYANGA: AYURVEDIC HEAD MASSAGE
+
+An extended head massage using nourishing oils infused with lavender, rosemary and mint poured through the scalp to help stimulate vital organs and systems while clearing the energy pathways in your head, which is then wrapped in steamed towels.  An intensely relaxing experience aimed at grounding the mind and body while balancing all the doshas.
+
+$15 add up to 15 minutes to your session
+
+
+
+## AYURVEDA FACIAL CLEANSE AND MASK
+
+A treatment designed to stimulate lymphatic drainage from the skin into the circulatory system of the body diminishing signs of aging and restoring a healthy glos using face massage, marma point, and a variety of ayurvedic-based masks and oils.
+
+$50 add up to 45 minutes to your session
+
+
+
+## SHIRODHARA: AYURVEDIC BLISS THERAPY
+
+This treatment consists in pouring warm oil in a slow steady stream on your forehead. It pacifies the subtle aspects of all the doshas, nourishes the nervous system, promoting relaxation and tranquility, and improves mental clarity and comprehension. When done in a series, it can help with certain neurological and mental imbalances as well. Because of the profound effects it has upon the consciousness, it has often been called “Bliss Therapy.”
+
+$30 add up to 30 minutes to your session
+
+
+
+## SALT & SUGAR BODY SCRUB
+
+Salt, which acts as a topical analgesic to reduce muscular discomfort and inflammation, and natural cane sugar, which contains glycolic acids for exfoliation and nourishment of your skin is blended with oils and vigorously massaged into the skin for a synergetic body exfoliant. You are then wrapped in plastic sheets and wool blankets to stimulate heat and detoxification.  During the wrap portion you will receive aromatherapy and marma point therapy.
+
+$50 add min. 45 minutes to your session
+
+
+
+## MUD WRAP
+
+This wrap revitalizes sore, achy muscles and joints.  Mud is legendary for its powerful therapeutic properties; it remineralizes and soothes dull skin. Our full body wrap includes marma point and aromatherapy.
+
+$55 add min. 45 minutes to your session
+
+
+
+## SPIRULINA WRAP
+
+This seaweed body wrap is extremely effective when used as part of a slimming or nourishing program and is great for detoxifying and toning the skin.  You are then wrapped in plastic sheets and wool blankets to stimulate heat and detoxification.  During the wrap portion you will receive aromatherapy and marma point.
+
+$60 add min. 45 minutes to your session\
+Add Salt and Sugar Body Scrub to Any Wrap for $20
+
+
+
+##
