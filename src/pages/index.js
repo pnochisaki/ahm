@@ -10,7 +10,9 @@ export default class IndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-HI
+
+              <iframe src="https://app.acuityscheduling.com/schedule.php?owner=11983703" width="100%" height="800" frameborder="0"></iframe>
+
             </div>
           </div>
         </section>
