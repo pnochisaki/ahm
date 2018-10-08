@@ -2,7 +2,7 @@
 templateKey: services-page
 title: Services
 ---
-## THE SIGNATURE MASSAGEX
+## THE SIGNATURE MASSAGE
 
 A deeply relaxing and nurturing full body massage pulling from modalities across the world such as Swedish, Deep Tissue, Trigger Point, Myofascial Release, Facilitated Stretching and Ayurveda, then blending in nourishing spa elements like Hot Stones, Steamed Towels and Aromatherapy in order to layer the senses, promote a deep sense of health and wellbeing, and to foster your inner zen. All massage include a thorough structural analysis and a customized treatment plan.
 
