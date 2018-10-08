@@ -29,6 +29,41 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/services/index.md"
+        label: "Services"
+        name: "services"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "services-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/resources/index.md"
+        label: "Resources"
+        name: "resources"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "resources-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/contact/index.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}   
+      - file: "src/pages/auto-injury/index.md"
+        label: "Auto Injury"
+        name: "auto-injury"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "auto-injury-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"} 
+      - file: "src/pages/testimonials/index.md"
+        label: "Testimonials"
+        name: "testimonials"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "testimonials-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}                               
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"

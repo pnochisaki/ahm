@@ -2,14 +2,12 @@
 templateKey: services-page
 title: Services
 ---
-## THE SIGNATURE MASSAGE
+## THE SIGNATURE MASSAGEX
 
 A deeply relaxing and nurturing full body massage pulling from modalities across the world such as Swedish, Deep Tissue, Trigger Point, Myofascial Release, Facilitated Stretching and Ayurveda, then blending in nourishing spa elements like Hot Stones, Steamed Towels and Aromatherapy in order to layer the senses, promote a deep sense of health and wellbeing, and to foster your inner zen. All massage include a thorough structural analysis and a customized treatment plan.
 
 60 minutes $80\
 90 minutes $100
-
-
 
 ## HAND AND STONE MASSAGE
 
@@ -17,8 +15,7 @@ A penetrating and very grounding experience using heated basalt stones and blend
 
 60 minutes $90\
 90 minutes $110
-
-## 
+ 
 
 ## DEEP TISSUE
 
@@ -28,13 +25,11 @@ Focusing on the deeper layers of muscle tissue and underlying structures of the 
 90 minutes $100
 
 
-
 ## MARMA CHIKITSA: ENERGY POINT THERAPY | AYURVEDIC ACUPRESSURE
 
 Marma points serve as the bridge between the physical body and its more subtle energy pathways, called nadis. This therapy is aimed at stimulating specific organs and/or systems, while releasing blocked energy and promoting flexibility. A session of Marma Point is most effective when following your massage.
 
 Complimentary with your massage – Please let your therapist know to include this in your massage.
-
 
 
 ## SHIRO ABHYANGA: AYURVEDIC HEAD MASSAGE
