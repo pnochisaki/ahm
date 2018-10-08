@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { Link } from 'gatsby'
 import Layout from '../components/Layout'
 
 export default class IndexPage extends React.Component {
@@ -11,7 +11,11 @@ export default class IndexPage extends React.Component {
           <div className="container">
             <div className="content">
 
-              <iframe src="https://app.acuityscheduling.com/schedule.php?owner=11983703" width="100%" height="800" frameborder="0"></iframe>
+              <img src="/img/ahm-home.jpg" alt="images" />
+
+              <div style={{textAlign: 'center', margin: '2rem 0'}}>
+                <Link className="button" to="/book-appointment">Book an Appointment</Link>
+              </div>
 
             </div>
           </div>

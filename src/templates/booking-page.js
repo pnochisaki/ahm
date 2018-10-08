@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const ServicesPageTemplate = ({ title, content, contentComponent }) => {
+export const BookingPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -14,39 +14,40 @@ export const ServicesPageTemplate = ({ title, content, contentComponent }) => {
       </h1>
       <div className="container">
         <PageContent className="content" content={content} />
+        <iframe title="booking" src="https://app.acuityscheduling.com/schedule.php?owner=11983703" width="100%" height="800" frameBorder="0"></iframe>
       </div>
     </section>
   )
 }
 
-ServicesPageTemplate.propTypes = {
+BookingPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 }
 
-const ServicesPage = ({ data }) => {
+const BookingPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout>
-      <ServicesPageTemplate
+      <BookingPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        content={post.frontmatter.services}
+        content={post.html}
       />
     </Layout>
   )
 }
 
-ServicesPage.propTypes = {
+BookingPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
-export default ServicesPage
+export default BookingPage
 
-export const servicesPageQuery = graphql`
-  query ServicesPage($id: String!) {
+export const bookingPageQuery = graphql`
+  query BookingPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
