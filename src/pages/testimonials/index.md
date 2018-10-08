@@ -2,20 +2,50 @@
 templateKey: testimonials-page
 title: Testimnoials
 ---
-## BIOGRAPHY
+### Jonathan, Rumney NH
 
-Christina’s earliest memory of massage was at the age of 4 years old when her mother was pregnant with Christina’s twin brothers.  Pregnancy didn’t suit her mother’s small frame very well and Christina remembers many long afternoons and evenings spent kneeled by her mothers side, rubbing baby lotion into all the tender areas of her legs and back.
+“Just wanted to let you know that was the best massage ever. Thanks so much, my back and neck feel great and my feet are feeling much better too. I’ll look forward to another session when I get back this way.”
 
+### Cynda, Portland OR
 
-It wasn’t until she suffered a debilitating back injury as a teenager that Christina experienced the healing benefits of massage first-hand. Opting out of an expensive surgery strongly urged by her team of neurologists, family and friends, she turned to the decidedly different, homeopathic approach to healing herself, while simultaneously establishing the roots of what is now the foundation of her career; believing in the power of healing ones own body and challenging the western mind-set that if something hurts, simply cutting it open and taking it out should not always be the first course of action.
+“That was an  extremely soothing and integrating massage yesterday.  I’m always amazed at your work.  It is so special and so effective.  I’m one tightly strung woman, but your massages take the “uh” outta struhng.”
 
-Christina is a native Oregonian and works out of her detached home studio within the ever popular and beautiful Richmond District of SE Portland.  She thinks of her studio as an Urban Zen Retreat where she is the Zen Master. She lives with her clever bearded husband, and her two sons; a rambunctious 4 year old – clever like his daddy, and a cheerful infant who loves to shout at the furniture. Together they care for a 75-pound “lap dog,” and a spattering of chickens.
+### Thomas, Portland OR
 
-## Expertise
+“After receiving the massage my chest contraction and general energetic malaise was gone. This morning I continue to feel improvement in my overall well being. I cannot say enough to thank you for your kind, generous and potent work. “
 
-Christina graduated from one of the nations most prestigious massage schools where she developed her fundamental intuition of therapeutic touch into an intricate science.  The day after passing her board exams she dove straight into work at a luxury spa in downtown Portland which was rooted in the 5,000 year old healing science of Ayurveda. It was during her time here that she learned to marry her brass-tacks approach to Deep Tissue massage with high-end spa elements such as hot stones, steamed towels, aromatherapy, and various Ayurvedic treatments, creating what has now become her famous Signature Massage.
+### Colin, Portland OR
 
-Christina upholds a very holistic approach to massage and bodywork and  is known to be very passionate about her craft and for her strong drive to help others. Her work speaks for itself as she takes the time to get to know each one of her clients individually in order to meet their needs on all levels to achieve mental clarity, emotional wellbeing and physical healing.
+“… Now I have found a great place to send (my girlfriend) to, my treat, while not emptying my wallet. She comes home every time relaxed, happy, and feeling great. She says Christina is the best masseuse she’s ever been to, and after seeing the effect on her, I would have to agree!”
 
-Christina is a Wellness Ambassador, Health Advocate, and a Licensed Massage Therapist, she has attended Mt Hood Community College and East West College of the Healing Arts. Christina is nationally certified and holds an Oregon State license granted by the Oregon Board of Massage Therapy, License # 14261.
+### Anonymous
 
+“Christina insisted I do not need to live with chronic pain. With regular deep tissue work she has been able to get me there! The hot rocks, steamed towels and aroma therapy combine to create complex relaxation that finishes the therapy delightfully.”
+
+### Betsy, Portland OR
+
+“I just had a **massage** here a few weeks ago and it was amazing. I love, love the hot stones, and she was able to really get in and work on some sore muscles that had been bothering me. Very knowledgeable and has a great, relaxing space.”
+
+### Alisha, Portland OR
+
+“I have had many a **massage** and I have to say that this was one of my best experiences yet. It’s so nice to get a **massage** by someone who is so tuned with my particular needs.”
+
+### Liz, Portland OR
+
+“I have been getting regular **massages** from Christina for months now and she is by far the best LMT I have been to. She is very caring and knowledgeable about **massage**. I have been having ankle trouble for years now and she helped so much! I recommend her to all my friends and family.”
+
+### Saundra Kitzmiller, Troutdale, OR
+
+“You don’t know what this means to me to even imagine that I might live pain free.  This has been my prayer but for the first time I have hope.  Your process is so straightforward and effective.  WOW.”
+
+### Chris Stroffolino, Ph.D , Oakland, CA.
+
+“Christina is one of the most knowledgeable massage therapists I know, and has great bedside manner and, speaking from personal experience, is able to tune-in on what her clients need much more than most other massage therapists I’ve worked with. If we lived in the same city, I would certainly be a regular customer.”
+
+### Arianna Gouvei L.M.T., Los Angeles, CA
+
+“Christina Wolfe is a rock star Massage Therapist and does a similar Spa style massage as I do, but maybe even better! Think: hot towels, warm oil, hot stones, aromatherapy…She also does Deep Tissue and is amazing. She is a great friend and practices out of a warm space in her home. She also does couples massages in YOUR home so think about Valentines day gifts y’all. She is the ish!”
+
+### Kristin, Portland OR
+
+“Christina is a terrific masseuse who uses a combination of high class spa treatment, like aroma therapy and hot stones, while creating deep tissue healing. She is excellent at getting to the source of your personal body issue dynamics. Christina spends a good amount of time getting to know you, your body and comfort levels. I felt very guided and well informed of the process she took me through. I especially enjoyed the post-**massage**break down of her observations of my body. She gave me helpful hints to keep myself healthy and balanced. I highly recommend Christina at **Abundant Health Massage** and Bodywork.”
