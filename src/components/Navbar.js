@@ -6,13 +6,6 @@ import logo from '../img/logo.svg'
 const Navbar = () => (
   <nav className="navbar">
     <div className="container">
-      <div className="branding">
-        <Link to="/" className="logo">
-          <figure className="image">
-            <img src={logo} alt="ahm" />
-          </figure>
-        </Link>
-      </div>
       <div className="navbar-items">
         <Link to="/services">
           Services
@@ -33,6 +26,13 @@ const Navbar = () => (
           Auto Injury
         </Link>
       </div>
+      <div className="branding">
+        <Link to="/" className="logo">
+          <figure className="image">
+            <img src={logo} alt="ahm" />
+          </figure>
+        </Link>
+      </div>      
     </div>
   </nav>
 )
