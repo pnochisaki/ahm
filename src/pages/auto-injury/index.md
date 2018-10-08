@@ -1,8 +1,8 @@
 ---
-templateKey: about-page
-title: About
+templateKey: auto-injury-page
+title: Auto Injury
 ---
-## Biography
+## BIOGRAPHY
 
 Christina’s earliest memory of massage was at the age of 4 years old when her mother was pregnant with Christina’s twin brothers.  Pregnancy didn’t suit her mother’s small frame very well and Christina remembers many long afternoons and evenings spent kneeled by her mothers side, rubbing baby lotion into all the tender areas of her legs and back.
 
