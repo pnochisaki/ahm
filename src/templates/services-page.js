@@ -4,7 +4,11 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const ServicesPageTemplate = ({ title, content, contentComponent }) => {
+import Showdown from 'showdown'
+
+const showdown = new Showdown.Converter();
+
+export const ServicesPageTemplate = ({ title, services, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -13,7 +17,13 @@ export const ServicesPageTemplate = ({ title, content, contentComponent }) => {
         {title}
       </h1>
       <div className="container">
-        <PageContent className="content" content={content} />
+        {/*<PageContent className="content" content={services} />*/}
+        {services.map((service, index) => (
+          <div className='col-50'
+            key={index}
+            dangerouslySetInnerHTML={{__html: showdown.makeHtml(service.service)}}
+          />
+        ))}
       </div>
     </section>
   )
@@ -21,7 +31,8 @@ export const ServicesPageTemplate = ({ title, content, contentComponent }) => {
 
 ServicesPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
-  content: PropTypes.string,
+  // content: PropTypes.string,
+  services: PropTypes.array,
   contentComponent: PropTypes.func,
 }
 
@@ -33,7 +44,7 @@ const ServicesPage = ({ data }) => {
       <ServicesPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        content={post.frontmatter.services}
+        services={post.frontmatter.services}
       />
     </Layout>
   )
@@ -51,6 +62,9 @@ export const servicesPageQuery = graphql`
       html
       frontmatter {
         title
+        services {
+          service
+        }
       }
     }
   }
