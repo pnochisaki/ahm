@@ -64,20 +64,103 @@ button,.button {
 
 .homeshow {
 	width: 100%;
-	padding: 1.33%; 
+	padding: .8333%;	
 	& > div {
 		float: left;
+		.image {
+			position: relative;
+			padding-bottom: 73.666%;
+		}
+		img {
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			&:nth-child(2) {
+				opacity: 0;
+			}
+		}
+
 	}
 	.image1 {
-		width: 66.25%;
+		width: 65.8333%;
+		img:nth-child(2) {
+			animation-duration: 20s;
+  			animation-name: fadeIn1;
+			animation-iteration-count: infinite;
+			animation-direction: alternate;
+		}
 	}
 	.image2 {
-		width: 33.75%;
-		padding-left: 1.33%;
-		padding-bottom: 1.33%;
+		width: 34.1666%;
+		padding-left: .8333%;
+		padding-bottom: .8333%;
+		img:nth-child(2) {
+			animation-duration: 20s;
+  			animation-name: fadeIn2;
+			animation-iteration-count: infinite;
+			animation-direction: alternate;
+		}		
 	}
 	.image3 {
-		width: 33.75%;
-		padding-left: 1.33%;
+		width: 34.1666%;
+		padding-left: .8333%;
+		img:nth-child(2) {
+			animation-duration: 20s;
+  			animation-name: fadeIn3;
+			animation-iteration-count: infinite;
+			animation-direction: alternate;
+		}
+
 	}
+	
+	@keyframes fadeIn1 {
+		0 {
+			opacity: 0;
+		}
+		40% {
+			opacity: 0;
+		}
+		60% {
+			opacity: 1;
+		}
+		80% {
+			opacity: 1;
+		}
+		100% {
+			opacity: 0;
+		}
+	}
+	@keyframes fadeIn2 {
+		0 {
+			opacity: 0;
+		}
+		60% {
+			opacity: 0;
+		}
+		80% {
+			opacity: 1;
+		}
+		100% {
+			opacity: 0;
+		}
+	}	
+	@keyframes fadeIn3 {
+		0 {
+			opacity: 0;
+		}
+		20% {
+			opacity: 0;
+		}
+		40% {
+			opacity: 1;
+		}
+		80% {
+			opacity: 1;
+		}
+		100% {
+			opacity: 0;
+		}
+	}	
+
 }

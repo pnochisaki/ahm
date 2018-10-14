@@ -13,13 +13,22 @@ export default class IndexPage extends React.Component {
 
               <div className="homeshow clear">
                 <div className="image1">
-                  <img src="/img/home/1a.jpg" alt=""/>
+                  <div className="image">
+                    <img src="/img/home/1a.jpg" alt=""/>
+                    <img src="/img/home/1b.jpg" alt=""/>
+                  </div>
                 </div>
                 <div className="image2">
-                  <img src="/img/home/2a.jpg" alt=""/>
+                  <div className="image">
+                    <img src="/img/home/2a.jpg" alt=""/>
+                    <img src="/img/home/2b.jpg" alt=""/>
+                  </div>
                 </div>
                 <div className="image3">
-                  <img src="/img/home/3a.jpg" alt=""/>
+                  <div className="image">
+                    <img src="/img/home/3a.jpg" alt=""/>
+                    <img src="/img/home/3b.jpg" alt=""/>                  
+                  </div>
                 </div>
               </div>
 
