@@ -15,7 +15,7 @@ services:
       and a customized treatment plan.
 
 
-      60 minutes $80\
+      60 minutes $80  
 
       90 minutes $100
   - service: >-
@@ -30,7 +30,7 @@ services:
       choice.
 
 
-      60 minutes $90\
+      60 minutes $90  
 
       90 minutes $110
   - service: >-
@@ -43,7 +43,7 @@ services:
       conditions apply.
 
 
-      60 minutes $70\
+      60 minutes $70  
 
       90 minutes $100
   - service: >-
@@ -131,7 +131,7 @@ services:
       receive aromatherapy and marma point.
 
 
-      $60 add min. 45 minutes to your session\
+      $60 add min. 45 minutes to your session  
 
       Add Salt and Sugar Body Scrub to Any Wrap for $20
 ---
