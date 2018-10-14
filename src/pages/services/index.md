@@ -15,8 +15,7 @@ services:
       and a customized treatment plan.
 
 
-      60 minutes $80
-
+      60 minutes $80\
 
       90 minutes $100
   - service: >-
