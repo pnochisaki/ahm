@@ -11,7 +11,18 @@ export default class IndexPage extends React.Component {
           <div className="container">
             <div className="content">
 
-              <img src="/img/ahm-home.jpg" alt="images" />
+              <div className="homeshow clear">
+                <div className="image1">
+                  <img src="/img/home/1a.jpg" alt=""/>
+                </div>
+                <div className="image2">
+                  <img src="/img/home/2a.jpg" alt=""/>
+                </div>
+                <div className="image3">
+                  <img src="/img/home/3a.jpg" alt=""/>
+                </div>
+              </div>
+
 
               <div style={{textAlign: 'center', margin: '2rem 0'}}>
                 <Link className="button" to="/book-appointment">Book an Appointment</Link>

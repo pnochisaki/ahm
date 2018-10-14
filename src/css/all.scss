@@ -3,6 +3,9 @@
 body {
 	font: 16px/1.5 freight-sans-pro , Helvetica , Arial, sans-serif;
 }
+* {
+	box-sizing: border-box;
+}
 .container {
 	max-width: 768px;
 	margin: auto;
@@ -57,4 +60,24 @@ button,.button {
 	padding: .5rem 1rem;
 	text-transform: uppercase;
 	text-decoration: none;
+}
+
+.homeshow {
+	width: 100%;
+	padding: 1.33%; 
+	& > div {
+		float: left;
+	}
+	.image1 {
+		width: 66.25%;
+	}
+	.image2 {
+		width: 33.75%;
+		padding-left: 1.33%;
+		padding-bottom: 1.33%;
+	}
+	.image3 {
+		width: 33.75%;
+		padding-left: 1.33%;
+	}
 }
