@@ -21,7 +21,7 @@ export const TestimonialsPageTemplate = ({ title, testimonials, content, content
         {testimonials.map((testimonial, index) => (
           <div className="col-50">
             <div>{ testimonial.title }</div>
-            <div key={index} dangerouslySetInnerHTML={{__html: showdown.makeHtml(testimonial.testimonial)}} /> 
+            <div key={index} dangerouslySetInnerHTML={{__html: showdown.makeHtml(testimonial.quote)}} /> 
           </div>
         ))}
         </div>
