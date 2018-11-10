@@ -5,7 +5,6 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
 import Showdown from 'showdown'
-
 const showdown = new Showdown.Converter();
 
 export const ServicesPageTemplate = ({ title, services, content, contentComponent }) => {

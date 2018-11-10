@@ -4,7 +4,10 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const TestimonialsPageTemplate = ({ title, content, contentComponent }) => {
+import Showdown from 'showdown'
+const showdown = new Showdown.Converter();
+
+export const TestimonialsPageTemplate = ({ title, testimonials, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -14,7 +17,15 @@ export const TestimonialsPageTemplate = ({ title, content, contentComponent }) =
       </h1>
       <div className="container">
         <PageContent className="content" content={content} />
-      </div>
+        <div>
+        {testimonials.map((testimonial, index) => (
+          <div className="col-50">
+            <div>{ testimonial.title }</div>
+            <div key={index} dangerouslySetInnerHTML={{__html: showdown.makeHtml(testimonial.testimonial)}} /> 
+          </div>
+        ))}
+        </div>
+      </div>    
     </section>
   )
 }
@@ -22,6 +33,7 @@ export const TestimonialsPageTemplate = ({ title, content, contentComponent }) =
 TestimonialsPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
+  testimonials: PropTypes.string,
   contentComponent: PropTypes.func,
 }
 
@@ -33,7 +45,7 @@ const TestimonialsPage = ({ data }) => {
       <TestimonialsPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        content={post.html}
+        testimonials={post.frontmatter.testimonials}
       />
     </Layout>
   )
@@ -45,12 +57,16 @@ TestimonialsPage.propTypes = {
 
 export default TestimonialsPage
 
-export const TestimonialsPageQuery = graphql`
+export const testimonialsPageQuery = graphql`
   query TestimonialsPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
         title
+        testimonials {
+          testimonial
+          title
+        }
       }
     }
   }
