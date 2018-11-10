@@ -18,12 +18,14 @@ export const ServicesPageTemplate = ({ title, services, content, contentComponen
       </h1>
       <div className="container">
         <PageContent className="content" content={content} />
+        <div>
         {services.map((service, index) => (
           <div className='col-50'
             key={index}
             dangerouslySetInnerHTML={{__html: showdown.makeHtml(service.service)}}
           />
         ))}
+        </div>
       </div>
     </section>
   )

@@ -14,7 +14,3 @@ Massages are available for 65 or  90 minute sessions in a beautiful studio spac
 
 Monday –  Friday 10:00am-7:00pm\
 Closed Saturday and Sunday
-
-## Contact
-
-Please use info above or form below to send a message

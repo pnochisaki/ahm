@@ -9,6 +9,7 @@ body {
 .container {
 	max-width: 768px;
 	margin: auto;
+	padding: 2rem;
 }
 img {
 	width: 100%;
@@ -76,8 +77,9 @@ button,.button {
 			position: absolute;
 			top: 0;
 			left: 0;
-			&:nth-child(2) {
-				opacity: 0;
+			opacity: 0;
+			&:nth-child(1) {
+				opacity: 1;
 			}
 		}
 
@@ -85,10 +87,10 @@ button,.button {
 	.image1 {
 		width: 65.8333%;
 		img:nth-child(2) {
-			animation-duration: 30s;
-  			animation-name: fadeIn1;
+			animation-duration: 20s;
+			animation-delay: 5s;
+  			animation-name: fadeInAndOut;
 			animation-iteration-count: infinite;
-			// animation-direction: alternate;
 		}
 	}
 	.image2 {
@@ -97,9 +99,9 @@ button,.button {
 		padding-bottom: .8333%;
 		img:nth-child(2) {
 			animation-duration: 20s;
-  			animation-name: fadeIn2;
+			animation-delay: 7.5s;
+			animation-name: fadeInAndOut;
 			animation-iteration-count: infinite;
-			// animation-direction: alternate;
 		}		
 	}
 	.image3 {
@@ -107,67 +109,59 @@ button,.button {
 		padding-left: .8333%;
 		img:nth-child(2) {
 			animation-duration: 20s;
-  			animation-name: fadeIn3;
+			animation-delay: 10s;
+  			animation-name: fadeInAndOut;
 			animation-iteration-count: infinite;
-			// animation-direction: alternate;
 		}
 
 	}
 	
-	@keyframes fadeIn1 {
+	@keyframes fadeInAndOut {
 		0 {
 			opacity: 0;
 		}
-		40% {
+		10% {
+			opacity: 1;
+		}
+		45% {
+			opacity: 1;
+		}
+		55% {
 			opacity: 0;
-		}
-		50% {
-			opacity: 1;
-		}
-		90% {
-			opacity: 1;
 		}
 		100% {
 			opacity: 0;
 		}
 	}
-	@keyframes fadeIn2 {
-		0 {
-			opacity: 0;
-		}
-		60% {
-			opacity: 0;
-		}
-		80% {
-			opacity: 1;
-		}
-		100% {
-			opacity: 0;
-		}
-	}	
-	@keyframes fadeIn3 {
-		0 {
-			opacity: 0;
-		}
-		20% {
-			opacity: 0;
-		}
-		40% {
-			opacity: 1;
-		}
-		80% {
-			opacity: 1;
-		}
-		100% {
-			opacity: 0;
-		}
-	}	
-
 }
 
-.col-50 {
-	float: left;
-	height: 20rem;
-	width: 50%;
-	padding-right: 2rem;
+@media (min-width: 769px){
+	.col-50 {
+		float: left;
+		clear: left;
+		width: 50%;
+		padding-right: 1rem;
+		&:nth-child(2n) {
+			clear: right;
+			padding-right: 0;
+			padding-left: 1rem
+		}
+	}
+}
+
+
+button, input, textarea, select {
+    width: 100%;
+    text-transform: none;
+    color: #a0a2a1;
+    margin: .5rem 0;
+    padding: .5rem;
+	background: transparent;
+}
+
+button {
+	letter-spacing: 1px;
+	color: #000;
+	font-size: 1rem;
+	text-transform: uppercase;
 }
