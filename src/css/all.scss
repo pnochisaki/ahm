@@ -26,11 +26,15 @@ nav a {
 	font-family: "acumin-pro-condensed";
 	text-transform: uppercase;
 	font-size: 1rem;	
-	display: inline-block;
 	padding: 1rem 1rem;
 	text-decoration: none;
 	letter-spacing: .05rem;
+	display: block;
+	@media (min-width: 769px) {
+		display: inline-block;
+	}
 }
+
 nav .logo img {
 	height: 4rem;
 	width: auto;
