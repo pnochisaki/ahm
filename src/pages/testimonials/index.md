@@ -1,6 +1,11 @@
 ---
 templateKey: testimonials-page
 title: Testimonials
+testimonials:
+ - testimonial:
+    - quote: >-
+        dasdfasdfas dfas df as dfa sdf as df
+    - author: Peter
 ---
 ### Jonathan, Rumney NH
 

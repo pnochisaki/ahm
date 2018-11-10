@@ -64,8 +64,10 @@ export const testimonialsPageQuery = graphql`
       frontmatter {
         title
         testimonials {
-          testimonial
-          title
+          testimonial {
+            quote
+            author  
+          }
         }
       }
     }
