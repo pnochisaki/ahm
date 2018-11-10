@@ -8,7 +8,7 @@ import Showdown from 'showdown'
 
 const showdown = new Showdown.Converter();
 
-export const ServicesPageTemplate = ({ title, services, contentComponent }) => {
+export const ServicesPageTemplate = ({ title, services, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -17,7 +17,7 @@ export const ServicesPageTemplate = ({ title, services, contentComponent }) => {
         {title}
       </h1>
       <div className="container">
-        {/*<PageContent className="content" content={services} />*/}
+        <PageContent className="content" content={content} />
         {services.map((service, index) => (
           <div className='col-50'
             key={index}
@@ -31,7 +31,7 @@ export const ServicesPageTemplate = ({ title, services, contentComponent }) => {
 
 ServicesPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
-  // content: PropTypes.string,
+  content: PropTypes.string,
   services: PropTypes.array,
   contentComponent: PropTypes.func,
 }
