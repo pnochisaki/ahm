@@ -1,6 +1,6 @@
 ---
 templateKey: testimonials-page
-title: Testimnoials
+title: Testimonials
 ---
 ### Jonathan, Rumney NH
 
