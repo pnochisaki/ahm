@@ -16,8 +16,12 @@ export const ResourcesPageTemplate = ({ title, left, right, content, contentComp
         {title}
       </h1>
       <div className="container">
-      <div className="col-50">{left}</div>
-      <div className="col-50">{right}</div>
+        <div className='col-50'
+              dangerouslySetInnerHTML={{__html: showdown.makeHtml(left)}}
+        />
+        <div className='col-50'
+          dangerouslySetInnerHTML={{__html: showdown.makeHtml(right)}}
+        />      
         <PageContent className="content" content={content} />
       </div>
     </section>
