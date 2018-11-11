@@ -22,7 +22,7 @@ left: |-
   [www.taborhillclinic.com](http://www.taborhillclinic.com/)  
   (503) 233-0585
 right: |-
-    "## LMTs  
+    ## LMTs  
     **Unbound Thai Bodywork**  
     Ario Lynch, LMT  
     436 SE 12th Ave. and Stark St.  
