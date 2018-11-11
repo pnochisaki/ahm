@@ -27,7 +27,8 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Left", name: "left", widget: "markdown"}
+          - {label: "Right", name: "right", widget: "markdown"}
       - file: "src/pages/services/index.md"
         label: "Services"
         name: "services"
