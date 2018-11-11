@@ -37,6 +37,13 @@ nav a {
 		display: inline-block;
 	}
 }
+.navbar-items a {
+	opacity: .5;
+	transition: opacity 250ms ease-in-out;
+	&:hover {
+		opacity: 1;
+	}
+}
 
 nav .logo img {
 	height: 4rem;
@@ -48,8 +55,9 @@ h1 {
 h2,h3,h4 {
 	font-family: "acumin-pro-condensed";
 	text-transform: uppercase;
-	font-size: 1.5rem;
-	margin: 1rem 0 0.25rem;
+	font-size: 1.25rem;
+	margin: 1rem 0;
+	opacity: .85;
 }
 .clear:after {
 	content: "";
