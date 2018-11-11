@@ -10,15 +10,11 @@ left: >-
   gladly bill auto insurance companies for your massage therapy. This also goes
   for pedestrians and bikers who have been struck by an automobile.
 
-
   Massage is of great benefit during your road to recovery. We can help ease the
   physical, as well as the emotional stress related to such a traumatic event.
 
-
-  ###
 right: >-
   ### We will make it easy for you – just follow these simple steps:
-
 
   1. Contact your primary care physician or doctor of Chiropractic.  
 
