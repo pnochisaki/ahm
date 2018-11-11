@@ -61,7 +61,8 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "auto-injury-page"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"} 
+          - {label: "Left", name: "left", widget: "markdown"} 
+          - {label: "Right", name: "right", widget: "markdown"} 
       - file: "src/pages/testimonials/index.md"
         label: "Testimonials"
         name: "testimonials"
