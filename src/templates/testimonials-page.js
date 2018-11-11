@@ -20,7 +20,7 @@ export const TestimonialsPageTemplate = ({ title, testimonials, content, content
         <div>
         {testimonials.map((testimonial, index) => (
           <div className="col-50">
-            <div>{ testimonial.title }</div>
+            <h3>{ testimonial.author }</h3>
             <div key={index} dangerouslySetInnerHTML={{__html: showdown.makeHtml(testimonial.quote)}} /> 
           </div>
         ))}
@@ -64,10 +64,8 @@ export const testimonialsPageQuery = graphql`
       frontmatter {
         title
         testimonials {
-          testimonial {
-            quote
-            author  
-          }
+          quote
+          author  
         }
       }
     }

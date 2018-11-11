@@ -1,8 +1,12 @@
 ---
 templateKey: resources-page
 title: Resources
+left: >-
+    blah
+right: >-
+    bloo
 ---
-Naturopathy
+### Naturopathy
 -----------
 
 **Padeen Quinn, N.D.**  
@@ -13,6 +17,7 @@ Portland, OR 97215
 [www.padeenquinn.com](http://www.padeenquinn.com/)  
 [www.taborhillclinic.com](http://www.taborhillclinic.com/)  
 (503) 233-0585
+
 
 Acupuncture
 -----------
