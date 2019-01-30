@@ -1,5 +1,4 @@
 ---
-templateKey: about-page
 title: About
 left: >-
   ## BIOGRAPHY
