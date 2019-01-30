@@ -1,8 +1,7 @@
 ---
-templateKey: about-page
 title: About
 left: >-
-  ## BIOGRAPHYx
+  ## BIOGRAPHY
 
 
   Christina’s earliest memory of massage was at the age of 4 years old when her
