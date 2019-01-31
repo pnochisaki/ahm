@@ -3,9 +3,6 @@ templateKey: services-page
 title: Services
 services:
   - service: >-
-      ## THE SIGNATURE MASSAGE
-
-
       A deeply relaxing and nurturing full body massage pulling from modalities
       across the world such as Swedish, Deep Tissue, Trigger Point, Myofascial
       Release, Facilitated Stretching and Ayurveda, then blending in nourishing
@@ -15,13 +12,11 @@ services:
       and a customized treatment plan.
 
 
-      60 minutes $80  
+      60 minutes $80\
 
       90 minutes $100
+    title: THE SIGNATURE MASSAGE
   - service: >-
-      ## HAND AND STONE MASSAGE
-
-
       A penetrating and very grounding experience using heated basalt stones and
       blended with Swedish massage to provide relief to sore muscles. Stones are
       also placed on Chakras and other key points along the body to stimulate
@@ -30,26 +25,22 @@ services:
       choice.
 
 
-      60 minutes $90  
+      60 minutes $90\
 
       90 minutes $110
+    title: HAND AND STONE MASSAGE
   - service: >-
-      ## DEEP TISSUE
-
-
       Focusing on the deeper layers of muscle tissue and underlying structures
       of the body using assisted active and passive stretching, and concentrated
       application of pressure and strokes to localized areas in which chronic
       conditions apply.
 
 
-      60 minutes $70  
+      60 minutes $70\
 
       90 minutes $100
+    title: DEEP TISSUE
   - service: >-
-      ## MARMA CHIKITSA: ENERGY POINT THERAPY | AYURVEDIC ACUPRESSURE
-
-
       Marma points serve as the bridge between the physical body and its more
       subtle energy pathways, called nadis. This therapy is aimed at stimulating
       specific organs and/or systems, while releasing blocked energy and
@@ -59,10 +50,8 @@ services:
 
       Complimentary with your massage – Please let your therapist know to
       include this in your massage.
+    title: 'MARMA CHIKITSA: ENERGY POINT THERAPY | AYURVEDIC ACUPRESSURE'
   - service: >-
-      ## SHIRO ABHYANGA: AYURVEDIC HEAD MASSAGE
-
-
       An extended head massage using nourishing oils infused with lavender,
       rosemary and mint poured through the scalp to help stimulate vital organs
       and systems while clearing the energy pathways in your head, which is then
@@ -71,10 +60,8 @@ services:
 
 
       $15 add up to 15 minutes to your session
+    title: 'SHIRO ABHYANGA: AYURVEDIC HEAD MASSAGE'
   - service: >-
-      ## AYURVEDA FACIAL CLEANSE AND MASK
-
-
       A treatment designed to stimulate lymphatic drainage from the skin into
       the circulatory system of the body diminishing signs of aging and
       restoring a healthy glos using face massage, marma point, and a variety of
@@ -82,10 +69,8 @@ services:
 
 
       $50 add up to 45 minutes to your session
+    title: AYURVEDA FACIAL CLEANSE AND MASK
   - service: >-
-      ## SHIRODHARA: AYURVEDIC BLISS THERAPY
-
-
       This treatment consists in pouring warm oil in a slow steady stream on
       your forehead. It pacifies the subtle aspects of all the doshas, nourishes
       the nervous system, promoting relaxation and tranquility, and improves
@@ -96,10 +81,8 @@ services:
 
 
       $30 add up to 30 minutes to your session
+    title: 'SHIRODHARA: AYURVEDIC BLISS THERAPY'
   - service: >-
-      ## SALT & SUGAR BODY SCRUB
-
-
       Salt, which acts as a topical analgesic to reduce muscular discomfort and
       inflammation, and natural cane sugar, which contains glycolic acids for
       exfoliation and nourishment of your skin is blended with oils and
@@ -110,20 +93,16 @@ services:
 
 
       $50 add min. 45 minutes to your session
+    title: SALT & SUGAR BODY SCRUB
   - service: >-
-      ## MUD WRAP
-
-
       This wrap revitalizes sore, achy muscles and joints. Mud is legendary for
       its powerful therapeutic properties; it remineralizes and soothes dull
       skin. Our full body wrap includes marma point and aromatherapy.
 
 
       $55 add min. 45 minutes to your session
+    title: MUD WRAP
   - service: >-
-      ## SPIRULINA WRAP
-
-
       This seaweed body wrap is extremely effective when used as part of a
       slimming or nourishing program and is great for detoxifying and toning the
       skin. You are then wrapped in plastic sheets and wool blankets to
@@ -131,8 +110,9 @@ services:
       receive aromatherapy and marma point.
 
 
-      $60 add min. 45 minutes to your session  
+      $60 add min. 45 minutes to your session\
 
       Add Salt and Sugar Body Scrub to Any Wrap for $20
+    title: SPIRULINA WRAP
 ---
 
