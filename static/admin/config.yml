@@ -13,6 +13,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
@@ -21,13 +22,13 @@ collections:
   - name: "pages"
     label: "Pages"
     editor:
-      preview: false
-
+      preview: false    
     files:
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
         fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Left", name: "left", widget: "markdown"}
           - {label: "Right", name: "right", widget: "markdown"}
@@ -35,6 +36,7 @@ collections:
         label: "Services"
         name: "services"
         fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "services-page"}
           - {label: "Title", name: "title", widget: "string"}
           - label: "Services"
             name: "services"
@@ -45,6 +47,7 @@ collections:
         label: "Resources"
         name: "resources"
         fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "resources-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Left", name: "left", widget: "markdown"} 
           - {label: "Right", name: "right", widget: "markdown"} 
@@ -52,12 +55,14 @@ collections:
         label: "Contact"
         name: "contact"
         fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}   
       - file: "src/pages/auto-injury/index.md"
         label: "Auto Injury"
         name: "auto-injury"
         fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "auto-injury-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Left", name: "left", widget: "markdown"} 
           - {label: "Right", name: "right", widget: "markdown"} 
@@ -65,5 +70,6 @@ collections:
         label: "Testimonials"
         name: "testimonials"
         fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "testimonials-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: Testimonials, name: testimonials, widget: list, fields: [ {label: Author, name: author, widget: string}, {label: Quote, name: quote, widget: markdown}]}
