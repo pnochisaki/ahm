@@ -42,7 +42,8 @@ collections:
             name: "services"
             widget: "list"
             fields:
-              [{label: "Service", name: "service", widget: "markdown"}]
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Service", name: "service", widget: "markdown"}             
       - file: "src/pages/resources/index.md"
         label: "Resources"
         name: "resources"

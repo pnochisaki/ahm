@@ -19,10 +19,16 @@ export const ServicesPageTemplate = ({ title, services, content, contentComponen
         <PageContent className="content" content={content} />
         <div>
         {services.map((service, index) => (
-          <div className='col-50'
+          <div className='col-50'>
+          <h2
+            key={index}
+            dangerouslySetInnerHTML={{__html: showdown.makeHtml(service.title)}}
+          />            
+          <div
             key={index}
             dangerouslySetInnerHTML={{__html: showdown.makeHtml(service.service)}}
-          />
+          />          
+          </div>
         ))}
         </div>
       </div>
@@ -65,6 +71,7 @@ export const servicesPageQuery = graphql`
         title
         services {
           service
+          title
         }
       }
     }
