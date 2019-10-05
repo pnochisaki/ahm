@@ -37,6 +37,8 @@ export default class IndexPage extends React.Component {
                 <Link className="button" to="/book-appointment">Book an Appointment</Link>
               </div>
 
+              <audio autoPlay={true} loop={true} controls><source src="/mood.mp3" type="audio/mpeg" /></audio>
+
             </div>
           </div>
         </section>
