@@ -2,6 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Navbar from '../components/Navbar'
+import Announcement from '../components/Announcement'
 import '../css/all.scss'
 
 const TemplateWrapper = ({ children }) => (
@@ -18,6 +19,7 @@ const TemplateWrapper = ({ children }) => (
       <meta name="msapplication-config" content="/icons/browserconfig.xml?v=bOMmgJEWw7" />
       <meta name="theme-color" content="#ffffff" />
     </Helmet>
+    <Announcement />
     <Navbar />
     <div>{children}</div>
   </div>
