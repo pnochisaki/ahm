@@ -19,12 +19,6 @@ const Navbar = () => (
         <Link to="/about">
           About
         </Link>
-        <Link to="/resources">
-          Resources
-        </Link>
-        <Link to="/auto-injury">
-          Auto Injury
-        </Link>
       </div>
       <div className="branding">
         <Link to="/" className="logo">
